@@ -1,0 +1,6 @@
+{
+    "equipos":[
+        {"name":"Ranchito Fran", "ip": "10.1.32.178"},
+        {"name":"Cuevita  Gerardo", "ip":"10.1.32.178"}
+    ]    
+}
